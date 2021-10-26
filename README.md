@@ -6,6 +6,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This is not the normal counter application, 
 But it is build on react using State Hooks and here, I developed this application for understanding the Basic of state (useState).
+React State Hook - (useState).
+It take two parameter and this is in the form of array destructuring.
+
+## useState Hook
+- useState()
+- first declare that useState in a react from react 
+- it will look like " import React, {useState} from 'react' "
+- after that, remember one things is that - always declare the state in the top side inside the function.
+- so, it is easy to access and provide to all the render elements.
+- 
+
 
 ### `npm start`
 
