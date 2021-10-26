@@ -15,7 +15,13 @@ It take two parameter and this is in the form of array destructuring.
 - it will look like " import React, {useState} from 'react' "
 - after that, remember one things is that - always declare the state in the top side inside the function.
 - so, it is easy to access and provide to all the render elements.
-- 
+- basically, useState hook takes two parameter in the form of array destructuring.
+- first one = "initial value"
+- second one = "setter method to update the initial value"
+- ex. const [count, setCount] = useState(0);
+- So, this is the basic way to declare and defining the state into a react.
+- now, the inital value will be whatever - int, array, object, boolean, string,  etc.
+- that's all about useState.
 
 
 ### `npm start`
