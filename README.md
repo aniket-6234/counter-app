@@ -4,7 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+This is not the normal counter application, 
+But it is build on react using State Hooks and here, I developed this application for understanding the Basic of state (useState).
 
 ### `npm start`
 
